@@ -103,6 +103,7 @@ Sections ordered alpabetically
   * [vMixUTC (Universal Title Controller) - by Elgarf](https://github.com/elgarf/vMixUTC) ![Github Repo Stars](https://img.shields.io/github/stars/elgarf/vMixUTC?style=social) - [(Forum post incl. download link)](https://forums.vmix.com/posts/t6468--FREE--Universal-Title-Controller)
 
 #### Free (closed source)
+  * [VRC Hub (Video Recording Control) - by Kotin-ak](https://github.com/Kotin-ak/VRC-Releases) - A native Windows dashboard to monitor Rec/Stream status, CPU/GPU, and disk space for multiple vMix machines simultaneously.
   * [Automation for vMix (by Step Back In Time TV)](http://www.stepbackintime.tv/automation.html) (previously a paid software product)
   * [HTTP Matrix - Super basic vMix scheduler - by Eric Pratt](http://usbroadcast.co/httpmatrix.htm)
   * [TimeCode Reader for Production Back-Timing Reference - by Raugert](https://forums.vmix.com/posts/t17782-TimeCode-Reader-for-Production-Back-Timing-Reference?fbclid=IwAR0KYOl1gePpt4xsMSJ0PX_NlQbjFu1PIV6wJg3RTWe9YYp8Nzr2SU1wMXA)
@@ -147,3 +148,4 @@ Sections ordered alpabetically
 
 # Contribution
 You are welcome to contribute with links to useful resources now already in the list. You can either send me an message or email, raise an Issue or make a Pull Request.
+Add VRC Hub to Free (closed source) applications
